@@ -189,15 +189,14 @@ Products Panel:
                                     Figure: User - Product Payment Gateway
                                                          
                                     
-                                    
-              ![payment status](https://user-images.githubusercontent.com/60319705/171026853-81b7f5b5-3ea5-4265-8a25-7e3a975d9756.png)
+             ![payment status](https://user-images.githubusercontent.com/60319705/171029436-70a90144-0a9f-4749-b3cb-eb3611bcc5ee.png)
+                       
+        
+                                     Figure: User - Product Payment Status       
+            
                       
-                                     Figure: User - Product Payment Status 
-                                    
-                                    
-              ![confirmed products](https://user-images.githubusercontent.com/60319705/171026903-efde0d86-e23e-42ea-8885-020e47075a43.png)
-                      
-                                    
+                  ![confirmed products](https://user-images.githubusercontent.com/60319705/171029474-ec7ae34c-3f2a-41ba-9ee4-0aa772192d07.png)
+                  
                                        Figure: Admin - Confirmed Products
                                        
                                        
