@@ -27,10 +27,20 @@ Functionality of the Greensource: These are the functionality performed by the p
                                           Figure: Home Page
 
 
+![team](https://user-images.githubusercontent.com/60319705/171005240-15d293c1-43b6-47a8-b4da-d683c0738351.png)
+
+                                         Figure: Team Page
 
 
+![kits](https://user-images.githubusercontent.com/60319705/171007132-14ed1c18-7ee4-4144-b54c-64fe58d91509.png)
 
 
+                                           Figure: Kits Page
+
+
+![events](https://user-images.githubusercontent.com/60319705/171006461-e3ed2972-766d-4e7c-ac27-83a4528584f1.png)
+
+                                         Figure: Events Page
 
 
 
