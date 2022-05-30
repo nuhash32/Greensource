@@ -1,6 +1,6 @@
 Greensource Project using Laravel (PHP Framework), MySQL
 
-This project Greensource Project has been developed on Laravel and MySQL. The main purpose for developing this project can helps admin to manage the products and donation area and user to donate money and buy products through online payment gateway (SSLCOMMERZ). This application is very simple and easy to access.
+This project Greensource Project has been developed on Laravel and MySQL. The main purpose for developing this project can helps admin to manage the products and donation area and user to donate money and buy products through online payment gateway (SSLCOMMERZ - Bkash, Nagad, Rocket, Bank Account etc). This application is very simple and easy to access.
 
 Modules and Description of Greensource Project: 
 
