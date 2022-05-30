@@ -1,0 +1,368 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+   
+  
+    /* Left Content Area */
+  
+    .logo {
+      width: 200%;
+      margin: 20px 20px;
+      text-align: left;
+      position: inherit;
+    }
+    .left-part img{
+        width: 30%;
+        margin: 20px;
+       
+      }
+    
+    .leftheader-1 h3 {
+      
+      font-weight: bold;
+      margin-top: 60px;
+      margin-bottom: 20px;
+      margin-left: 20px;
+      padding: 10px;
+      color: white;
+      text-align: left;
+      line-height: 40px;
+  
+    }
+  
+    .leftheader-2 h5{
+    font-family:Bahnschrift;
+      font-weight: normal;
+      margin-top: 20px;
+      margin-bottom: 50px;
+      margin-left: 20px;
+      padding: 10px;
+      color: #D0D3D4;
+      text-align: left;
+      line-height: 30px;
+  
+    }
+  
+  
+  .img-rocket{
+    margin-top: 20px;
+    margin-bottom: 28px;
+    text-align: left;
+    width: 225%;
+  }
+  
+  /* Right Content Part */
+  
+  .member p{
+    margin-top: 30px;
+    text-align: right;
+    font-family:Bahnschrift;
+    font-size: 16px;
+  }
+
+  .member a{
+   text-decoration: none;
+  }
+  
+  .right-header1 h2{
+    font-family:Bahnschrift;
+    font-weight: bold;
+    color:  #1AA15F ;
+    text-align: left;
+    margin-top: 35px;
+    margin-bottom: 20px;
+  }
+  
+  .right-content{
+  
+    margin-left: 50px;
+    
+  }
+
+ /* Social Media Link Button & Hover */
+
+  .wrapper .button{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 60px;
+    border-style: solid;
+    border-color: #1AA15F;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover{
+    width: 260px;
+  }
+  .wrapper .button .icon{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-radius: 35px;
+    box-sizing: border-box;
+    line-height: 30px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:nth-child(1):hover .icon{
+    background: white;
+  }
+  .wrapper .button:nth-child(2):hover .icon{
+    background: white;
+  }
+  .wrapper .button:nth-child(3):hover .icon{
+    background: white;
+  }
+  .wrapper .button:nth-child(4):hover .icon{
+    background: white;
+  }
+ 
+  .wrapper .button .icon i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3s ease-out;
+  }
+  .wrapper .button:hover .icon i{
+    color: #fff;
+  }
+  .wrapper .button span{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-left: 5px;
+    transition: all 0.3s ease-out;
+  }
+
+  .wrapper .button:nth-child(1) span{
+    color: black;
+  }
+  .wrapper .button:nth-child(2) span{
+    color: #0077b5;
+   
+  }
+  .wrapper .button:nth-child(3) span{
+    color: #1DA1F2;
+  }
+  .wrapper .button:nth-child(4) span{
+    color: #3b5998;
+  }
+ 
+  .google-logo{
+    width:50%;
+    margin: 10px 13px;
+  }
+
+  .linkedin-logo{
+   
+    width:100%;
+    margin: 8px 0px;
+  }
+  
+  .twitter-logo{
+
+    width: 55%;
+    margin: 12px 13px;
+  }
+
+  .facebook-logo{
+    width: 70%;
+    margin: 10px 8px;
+
+  }
+
+  .soical-media-logo a{
+    text-decoration: none;
+  }
+
+
+  #orsection p {
+  font-family:Bahnschrift;
+  margin-top: 20px;
+  margin-bottom: 10px;
+    color: #7B7D7D ;
+  }
+
+
+  /* Form Area Start */
+  
+  .sign-in-form{
+
+    margin: 40px 0px;
+
+  }
+
+  form{
+    
+    width: 80%;
+    font-size: 16px;
+    font-family:Bahnschrift;
+    font-weight: bold;
+  }
+  
+  
+  
+  .btn{
+  
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    color:  white;
+    font-family: Bahnschrift;
+    font-weight: bolder;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #1AA15F;
+  
+  }
+
+  
+
+  
+  span1{
+      float:right;
+      clear:left;
+      color:#1AA15F ;
+      font-weight: normal;
+      margin: 0px 10px;
+    }
+ 
+  
+    span2 {
+      line-height: 20px;
+      text-align: left;
+      color:#1AA15F;
+      font-weight: normal;
+    }
+
+    span3 {
+        color: black;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: left;
+        font-weight: normal;
+      }
+
+    .terms-condition-accept a{
+      text-decoration: none;
+    }
+
+
+  
+    @media only screen and (max-width:700px){
+  
+       
+      .row{
+        flex-direction: column;
+        margin: 25px 0;
+      }
+
+      /* Social Media Link Button & Hover */
+      
+      .wrapper .button{
+        display: inline-block;
+        height: 35px;
+        width: 35px;
+        text-align: center;
+        margin: 0 2px;
+        overflow: hidden;
+        background: #fff;
+        border-radius: 45px;
+        border-style: solid;
+        border-color: #1AA15F;
+        cursor: pointer;
+        box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+        transition: all 0.3s ease-out;
+      }
+      .wrapper .button:hover{
+        width: 200px;
+      }
+      .wrapper .button .icon{
+        display: inline-block;
+        height: 25px;
+        width: 25px;
+        text-align: center;
+        border-radius: 30px;
+        box-sizing: border-box;
+        line-height: 25px;
+        transition: all 0.3s ease-out;
+      }
+   
+      .wrapper .button .icon i{
+        font-size: 15px;
+        line-height: 10px;
+        transition: all 0.3s ease-out;
+      }
+      
+      .wrapper .button span{
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 15px;
+      
+        transition: all 0.3s ease-out;
+      }
+
+
+      .google-logo{
+        width:40%;
+        margin: 2px 8px;
+      }
+    
+      .linkedin-logo{
+       
+        width:43%;
+        margin: 2px 8px;
+      }
+      
+      .twitter-logo{
+    
+        width: 48%;
+        margin: 2px 8px;
+      }
+    
+      .facebook-logo{
+        width: 25%;
+        margin: 2px 9px;
+    
+      }
+
+      #orsection p {
+      margin-top: 30px;
+      margin-bottom: 10px;
+        color: #7B7D7D ;
+      }
+
+    /* Right Content Center Align */
+    
+    .right-top-content{
+      text-align: center;
+    }
+
+    form {
+      width: 95%;
+      text-align: left;
+    }
+
+    .button-create-account{
+      text-align: center;
+    }
+    
+    .button-sign-in{
+
+      text-align: center;
+    }
+  
+  }
+  
+    
