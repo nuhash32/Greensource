@@ -142,34 +142,36 @@ Products Panel:
 2. Admin can manage (edit, delete) product details
 3. User can buy product
 4. User can pay the payment through online payment gateway (SSLCOMMERZ- Bkash, Nagad, Rocket, Bank Account etc)
+5. User can see his/her payment status
+6. Admin can see confimed products
 
 
 
 ![add product](https://user-images.githubusercontent.com/60319705/171025105-92e61171-f2d1-4afa-8169-e0844f35218a.png)
 
-                                            Figure: Admin Add Product
+                                            Figure: Admin - Add Product
    
    
 ![manage product](https://user-images.githubusercontent.com/60319705/171025133-88171e78-bc08-4861-8d54-51b94f13dac6.png)
 
-                                            Figure: Admin Manage Product
+                                            Figure: Admin - Manage Product
 
 
 ![buy product](https://user-images.githubusercontent.com/60319705/171025164-e6fb7e3c-9405-4985-8787-596f6a60006b.png)
 
 
-                                             Figure: User Buy Product
+                                             Figure: User - Buy Product
 
 
 ![product cart](https://user-images.githubusercontent.com/60319705/171025184-74ea4666-3f90-42d4-a627-3b1672902b3e.png)
 
 
-                                              Figure: User Product Cart
+                                              Figure: User - Product Cart
 
 
 ![product payment](https://user-images.githubusercontent.com/60319705/171025944-c2bae0ec-0bc3-473d-8de4-cd575de8f5b2.png)
 
-                                         Figure: User Product Payment Details
+                                         Figure: User - Product Payment Details
  
  
 ![payment gateway 1](https://user-images.githubusercontent.com/60319705/171025962-3d1f7b49-3af5-4429-b974-c833bae7a706.png)
@@ -184,5 +186,57 @@ Products Panel:
 ![payment gateway 4](https://user-images.githubusercontent.com/60319705/171026017-2803c940-9385-4d6c-897a-0dccc6783ba1.png)
 
 
-                                    Figure: User Product Payment Confirmation
+                                    Figure: User - Product Payment Gateway
+                                                         
+                                    
+                                    
+              ![payment status](https://user-images.githubusercontent.com/60319705/171026853-81b7f5b5-3ea5-4265-8a25-7e3a975d9756.png)
+                      
+                                     Figure: User - Product Payment Status 
+                                    
+                                    
+              ![confirmed products](https://user-images.githubusercontent.com/60319705/171026903-efde0d86-e23e-42ea-8885-020e47075a43.png)
+                      
+                                    
+                                       Figure: Admin - Confirmed Products
+                                       
+                                       
+Donation Panel:
 
+1. Admin can add donation area
+2. Admin can manage (edit, delete) donation area
+3. User can donate money
+4. User can pay the donation through online payment gateway (SSLCOMMERZ- Bkash, Nagad, Rocket, Bank Account etc)
+5. User can see his/her donation payment status
+6. Admin can see successful donations
+
+                                
+                                    
+![add donation area](https://user-images.githubusercontent.com/60319705/171027756-e80ab7f3-2e66-4c63-ba84-4ea908a9062c.png)
+
+                                          Figure: Admin - Add donation area
+
+![manage donation area](https://user-images.githubusercontent.com/60319705/171027810-2a4344b3-d1f5-4fb8-848b-1eb119693113.png)
+
+                                          Figure: Admin - manage donation area
+
+![donation form](https://user-images.githubusercontent.com/60319705/171027862-4d6a5095-2ce3-4ddc-8aeb-f5403595c65e.png)
+
+                                             Figure: User - donation form
+  
+![donation payment](https://user-images.githubusercontent.com/60319705/171027871-fb824f5e-bcc3-4d4e-bee2-cdd30bdf7cc0.png)
+
+                                            Figure: User - donation payment
+
+
+
+![donation status](https://user-images.githubusercontent.com/60319705/171028304-b0ede6ca-a308-44eb-948a-0a63f46301ef.png)
+
+
+                                             Figure: User - donation status
+
+
+![view all donations](https://user-images.githubusercontent.com/60319705/171028326-0d270b5d-dad1-44cf-a66d-f7850c2a7db6.png)
+
+
+                                            Figure: Admin - all donations list 
