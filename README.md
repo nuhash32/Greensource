@@ -52,7 +52,7 @@ The frontend Part of the Greensource Project:
 Functionality of the Greensource: These are the functionality performed by the project:
 
 1.	Login For Admin
-2.	Login For Admin
+2.	Login For User
 3.	Dashboard for Admin
 4.	Dashboard for User
 
@@ -123,17 +123,17 @@ User Profile Panel:
 Manage Admin Panel:
 
 1. Admin can add admin
-2. Admin can view all admin
+2. Admin can view all admin details
 
 
 ![add admin](https://user-images.githubusercontent.com/60319705/171023968-cff18495-1858-4d49-b8df-c526472adb06.png)
 
 
-                                               Figure: Add Admin
+                                               Figure: Admin - Add Admin
 
 ![view admin](https://user-images.githubusercontent.com/60319705/171024187-b481e7a7-c9ea-4a09-bd9d-428360d4f00c.png)
 
-                                               Figure: View Admin
+                                               Figure: Admin - View Admin
 
 
 Products Panel:
@@ -227,7 +227,6 @@ Donation Panel:
 ![donation payment](https://user-images.githubusercontent.com/60319705/171027871-fb824f5e-bcc3-4d4e-bee2-cdd30bdf7cc0.png)
 
                                             Figure: User - donation payment
-
 
 
 ![donation status](https://user-images.githubusercontent.com/60319705/171028304-b0ede6ca-a308-44eb-948a-0a63f46301ef.png)
